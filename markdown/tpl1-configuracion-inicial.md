@@ -1,7 +1,7 @@
 TPL 1 - Configuración inicial de la red del laboratorio
 =======================================================
 
-**Fecha de Entrega:** 26/03/2026
+**Fecha de Entrega:** Armar crono y ver fechas
 
 **URL de Entrega:** <https://tinyurl.com/TyR-2026-TP1>
 
